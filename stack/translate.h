@@ -1,0 +1,1 @@
+const char* translate(char* expr, int exprLength);
